@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Ammulu CLASSROOM.
-          <h1>numer of students</h1>
+         
         </p>
         <a
           className="App-link"
